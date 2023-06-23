@@ -1,0 +1,323 @@
+{
+  "baseUri": "https://raw.githubusercontent.com/Runeizril/Daijishoukor/main/platforms/",
+  "platformList": [
+    {
+      "filename": "DOS.json",
+      "platformName": "DOS",
+      "platformShortname": "dos",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "MSX.json",
+      "platformName": "MSX",
+      "platformShortname": "msx",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "PC88.json",
+      "platformName": "PC-88",
+      "platformShortname": "pc88",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "PC98.json",
+      "platformName": "PC-98",
+      "platformShortname": "pc98",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "PCFX.json",
+      "platformName": "PC-FX",
+      "platformShortname": "pcfx",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "RPGMaker.json",
+      "platformName": "RPG 메이커",
+      "platformShortname": "rpgmaker",
+      "revisionNumber": 2
+    },
+    {
+      "filename": "GameBoy.json",
+      "platformName": "게임보이",
+      "platformShortname": "gb",
+      "revisionNumber": 7
+    },
+    {
+      "filename": "GameBoyAdvance.json",
+      "platformName": "게임보이 어드밴스",
+      "platformShortname": "gba",
+      "revisionNumber": 7
+    },
+    {
+      "filename": "GameBoyColor.json",
+      "platformName": "게임보이 컬러",
+      "platformShortname": "gbc",
+      "revisionNumber": 7
+    },
+    {
+      "filename": "Game&Watch.json",
+      "platformName": "게임 앤 와치",
+      "platformShortname": "gw",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "GameCube.json",
+      "platformName": "게임큐브",
+      "platformShortname": "gc",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "NeoGeo.json",
+      "platformName": "네오지오",
+      "platformShortname": "neogeo",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "NeoGeoCD.json",
+      "platformName": "네오지오 CD",
+      "platformShortname": "neogeocd",
+      "revisionNumber": 5
+    },
+    {
+      "filename": "NeoGeoPocket.json",
+      "platformName": "네오지오 포켓",
+      "platformShortname": "ngp",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "NeoGeoPocketColor.json",
+      "platformName": "네오지오 포켓 컬러",
+      "platformShortname": "ngpc",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "Nintendo3DS.json",
+      "platformName": "닌텐도 3DS",
+      "platformShortname": "3ds",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "Nintendo64.json",
+      "platformName": "닌텐도 64",
+      "platformShortname": "n64",
+      "revisionNumber": 10
+    },
+    {
+      "filename": "NintendoDS.json",
+      "platformName": "닌텐도 DS",
+      "platformShortname": "nds",
+      "revisionNumber": 5
+    },
+    {
+      "filename": "SuperNintendoEntertainmentSystem.json",
+      "platformName": "닌텐도 슈퍼패미컴",
+      "platformShortname": "snes",
+      "revisionNumber": 8
+    },
+    {
+      "filename": "NintendoSwitch.json",
+      "platformName": "닌텐도 스위치",
+      "platformShortname": "switch",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "NintendoWii.json",
+      "platformName": "닌텐도 위",
+      "platformShortname": "wii",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "NintendoEntertainmentSystem.json",
+      "platformName": "닌텐도 패미컴",
+      "platformShortname": "nes",
+      "revisionNumber": 7
+    },
+    {
+      "filename": "FamicomDiskSystem.json",
+      "platformName": "닌텐도 패미컴 디스크 시스템",
+      "platformShortname": "fds",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "MAMEa.json",
+      "platformName": "마메(대전격투)",
+      "platformShortname": "mame",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "MAMEb.json",
+      "platformName": "마메(벨트액션)",
+      "platformShortname": "mame",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "MAMEc.json",
+      "platformName": "마메(V슈팅)",
+      "platformShortname": "mame",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "MAMEd.json",
+      "platformName": "마메(H슈팅)",
+      "platformShortname": "mame",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "MAMEe.json",
+      "platformName": "마메(스포츠)",
+      "platformShortname": "mame",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "MAMEf.json",
+      "platformName": "마메(보드/퍼즐/퀴즈)",
+      "platformShortname": "mame",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "MAMEg.json",
+      "platformName": "마메(+19)",
+      "platformShortname": "mame",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "Ffmpeg.json",
+      "platformName": "미디어 플레이어",
+      "platformShortname": "ffmpeg",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "Sega32X.json",
+      "platformName": "세가 32X",
+      "platformShortname": "sega32x",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "SegaCD.json",
+      "platformName": "세가 CD",
+      "platformShortname": "segacd",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "SegaGameGear.json",
+      "platformName": "세가 게임 기어",
+      "platformShortname": "gamegear",
+      "revisionNumber": 7
+    },
+    {
+      "filename": "SegaNAOMI.json",
+      "platformName": "세가 나오미",
+      "platformShortname": "naomi",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "Dreamcast.json",
+      "platformName": "세가 드림캐스트",
+      "platformShortname": "dreamcast",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "SegaGenesis.json",
+      "platformName": "세가 메가드라이브",
+      "platformShortname": "genesis",
+      "revisionNumber": 6
+    },
+    {
+      "filename": "SegaMasterSystem.json",
+      "platformName": "세가 마스터 시스템",
+      "platformShortname": "master",
+      "revisionNumber": 8
+    },
+    {
+      "filename": "SegaSaturn.json",
+      "platformName": "세가 세턴",
+      "platformShortname": "saturn",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "SonyPlayStation.json",
+      "platformName": "소니 플레이스테이션",
+      "platformShortname": "psx",
+      "revisionNumber": 5
+    },
+    {
+      "filename": "SonyPlayStation2.json",
+      "platformName": "소니 플레이스테이션 2",
+      "platformShortname": "ps2",
+      "revisionNumber": 5
+    },
+    {
+      "filename": "PlayStationPortable.json",
+      "platformName": "소니 플레이스테이션 포터블",
+      "platformShortname": "psp",
+      "revisionNumber": 7
+    },
+    {
+      "filename": "Atomiswave.json",
+      "platformName": "아토미스웨이브",
+      "platformShortname": "atomiswave",
+      "revisionNumber": 4
+    },
+    {
+      "filename": "WonderSwan.json",
+      "platformName": "원더스완",
+      "platformShortname": "ws",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "WonderSwanColor.json",
+      "platformName": "원더스완 컬러",
+      "platformShortname": "wsc",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "FinalBurnNeoa.json",
+      "platformName": "파이널 번 네오(대전격투)",
+      "platformShortname": "fbneo",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "FinalBurnNeob.json",
+      "platformName": "파이널 번 네오(벨트액션)",
+      "platformShortname": "fbneo",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "FinalBurnNeoc.json",
+      "platformName": "파이널 번 네오(V슈팅)",
+      "platformShortname": "fbneo",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "FinalBurnNeod.json",
+      "platformName": "파이널 번 네오(H슈팅)",
+      "platformShortname": "fbneo",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "FinalBurnNeoe.json",
+      "platformName": "파이널 번 네오(스포츠)",
+      "platformShortname": "fbneo",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "FinalBurnNeof.json",
+      "platformName": "파이널 번 네오(보드/퍼즐/퀴즈)",
+      "platformShortname": "fbneo",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "FinalBurnNeog.json",
+      "platformName": "파이널 번 네오(+19)",
+      "platformShortname": "fbneo",
+      "revisionNumber": 3
+    },
+    {
+      "filename": "PokemonMini.json",
+      "platformName": "포켓몬 미니",
+      "platformShortname": "pokemini",
+      "revisionNumber": 3
+    }
+  ]
+}
