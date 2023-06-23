@@ -4,7 +4,7 @@
   "platform": {
     "name": "파이널 번 네오(보드/퍼즐/퀴즈)",
     "uniqueId": "fbneo",
-    "shortname": "fbneo",
+    "shortname": "fbn(보드/퍼즐)",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
