@@ -4,7 +4,7 @@
   "platform": {
     "name": "마메(대전격투)",
     "uniqueId": "mame",
-    "shortname": "mame",
+    "shortname": "mame(대전격투)",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
