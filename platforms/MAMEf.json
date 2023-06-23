@@ -2,7 +2,7 @@
   "databaseVersion": 14,
   "revisionNumber": 4,
   "platform": {
-    "name": "마메(보드/퍼즐/퀴즈)",
+    "name": "마메(보드/퍼즐)",
     "uniqueId": "mame",
     "shortname": "mame",
     "description": null,
