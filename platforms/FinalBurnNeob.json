@@ -4,7 +4,7 @@
   "platform": {
     "name": "파이널 번 네오(벨트액션)",
     "uniqueId": "fbneo",
-    "shortname": "fbneo",
+    "shortname": "fbn(벨트액선)",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
