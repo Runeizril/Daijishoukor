@@ -4,7 +4,7 @@
   "platform": {
     "name": "마메(V슈팅)",
     "uniqueId": "mame",
-    "shortname": "mame",
+    "shortname": "mame(V슈팅)",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
