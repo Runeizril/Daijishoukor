@@ -171,7 +171,7 @@
     },
     {
       "filename": "MAMEf.json",
-      "platformName": "마메(보드/퍼즐/퀴즈)",
+      "platformName": "마메(보드/퍼즐)",
       "platformShortname": "mame",
       "revisionNumber": 4
     },
@@ -303,7 +303,7 @@
     },
     {
       "filename": "FinalBurnNeof.json",
-      "platformName": "파이널 번 네오(보드/퍼즐/퀴즈)",
+      "platformName": "파이널 번 네오(보드/퍼즐)",
       "platformShortname": "fbneo",
       "revisionNumber": 3
     },
