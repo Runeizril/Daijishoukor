@@ -4,7 +4,7 @@
   "platform": {
     "name": "마메(+19)",
     "uniqueId": "mame",
-    "shortname": "mame",
+    "shortname": "mame(+19)",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
